@@ -1,6 +1,6 @@
 body {
   margin: 0;
-  font-family: verdana, sans-serif;
+  font-family: sans-serif;
   background: #f4f4f4;
   color: #222;
 }
@@ -14,7 +14,7 @@ header {
 
 nav a {
   margin: 0 1rem;
-  color: #a76666;
+  color: #ba9696;
   text-decoration: none;
 }
 
