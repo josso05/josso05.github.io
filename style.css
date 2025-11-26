@@ -1,6 +1,6 @@
 body {
   margin: 0;
-  font-family: garamond, sans-serif;
+  font-family: verdana, sans-serif;
   background: #f4f4f4;
   color: #222;
 }
@@ -8,13 +8,13 @@ body {
 header {
   text-align: center;
   padding: 2rem;
-  background: #a76666;
+  background: #5f1b23;
   color: white;
 }
 
 nav a {
   margin: 0 1rem;
-  color: #5f1b23;
+  color: #a76666;
   text-decoration: none;
 }
 
