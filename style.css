@@ -1,20 +1,20 @@
 body {
   margin: 0;
   font-family: sans-serif;
-  background: #f4f4f4;
-  color: #222;
+  background: #FB93BB;
+  color: #820c28;
 }
 
 header {
   text-align: center;
   padding: 2rem;
   background: #FFF4D7;
-  color: white;
+  color: #820c28;
 }
 
 nav a {
   margin: 0 1rem;
-  color: #ba9696;
+  color: #820c28;
   text-decoration: none;
 }
 
@@ -31,7 +31,8 @@ section {
 }
 
 .card {
-  background: white;
+  background: #FFF4D7;
+  color: #C55A48;
   padding: 1rem;
   border-radius: 8px;
   box-shadow: 0 2px 4px rgba(0,0,0,0.1);
